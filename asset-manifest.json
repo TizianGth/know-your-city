@@ -1,17 +1,16 @@
 {
   "files": {
     "main.css": "/know-your-city/static/css/main.66fbfa4b.css",
-    "main.js": "/know-your-city/static/js/main.bbe00a78.js",
+    "main.js": "/know-your-city/static/js/main.7e260770.js",
     "static/js/453.bba58ed9.chunk.js": "/know-your-city/static/js/453.bba58ed9.chunk.js",
-    "static/media/background_2k.avif": "/know-your-city/static/media/background_2k.96e80faf94b08b8b3dd9.avif",
     "static/media/kyc-logo.avif": "/know-your-city/static/media/kyc-logo.6be5ece9bd1e335598c3.avif",
     "index.html": "/know-your-city/index.html",
     "main.66fbfa4b.css.map": "/know-your-city/static/css/main.66fbfa4b.css.map",
-    "main.bbe00a78.js.map": "/know-your-city/static/js/main.bbe00a78.js.map",
+    "main.7e260770.js.map": "/know-your-city/static/js/main.7e260770.js.map",
     "453.bba58ed9.chunk.js.map": "/know-your-city/static/js/453.bba58ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66fbfa4b.css",
-    "static/js/main.bbe00a78.js"
+    "static/js/main.7e260770.js"
   ]
 }

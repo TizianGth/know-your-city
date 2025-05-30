@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/know-your-city/static/css/main.66fbfa4b.css",
-    "main.js": "/know-your-city/static/js/main.7e260770.js",
+    "main.js": "/know-your-city/static/js/main.010bd718.js",
     "static/js/453.bba58ed9.chunk.js": "/know-your-city/static/js/453.bba58ed9.chunk.js",
     "static/media/kyc-logo.avif": "/know-your-city/static/media/kyc-logo.6be5ece9bd1e335598c3.avif",
     "index.html": "/know-your-city/index.html",
     "main.66fbfa4b.css.map": "/know-your-city/static/css/main.66fbfa4b.css.map",
-    "main.7e260770.js.map": "/know-your-city/static/js/main.7e260770.js.map",
+    "main.010bd718.js.map": "/know-your-city/static/js/main.010bd718.js.map",
     "453.bba58ed9.chunk.js.map": "/know-your-city/static/js/453.bba58ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66fbfa4b.css",
-    "static/js/main.7e260770.js"
+    "static/js/main.010bd718.js"
   ]
 }

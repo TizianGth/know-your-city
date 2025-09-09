@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.47e080b3.css",
-    "main.js": "./static/js/main.c0517a41.js",
+    "main.js": "./static/js/main.690c37d2.js",
     "static/js/453.bba58ed9.chunk.js": "./static/js/453.bba58ed9.chunk.js",
     "static/media/background_2k.avif": "./static/media/background_2k.96e80faf94b08b8b3dd9.avif",
     "static/media/kyc-logo.avif": "./static/media/kyc-logo.6be5ece9bd1e335598c3.avif",
     "index.html": "./index.html",
     "main.47e080b3.css.map": "./static/css/main.47e080b3.css.map",
-    "main.c0517a41.js.map": "./static/js/main.c0517a41.js.map",
+    "main.690c37d2.js.map": "./static/js/main.690c37d2.js.map",
     "453.bba58ed9.chunk.js.map": "./static/js/453.bba58ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47e080b3.css",
-    "static/js/main.c0517a41.js"
+    "static/js/main.690c37d2.js"
   ]
 }

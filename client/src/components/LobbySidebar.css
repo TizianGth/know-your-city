@@ -1,0 +1,66 @@
+.lobby-container {
+    background-color: rgb(226, 226, 237);
+    width: 25%;
+    margin: 2%;
+    border-radius: 0.75rem;
+    min-height: inherit;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.lobby-el {
+    background-color: rgb(191, 191, 203);
+    border-radius: 0.75rem;
+    margin: 7.5%;
+    box-shadow: rgba(152, 149, 163, 0.7) 0rem 0.8rem 1.5rem;
+    height: 100%;
+    transition: height 0.3s ease;
+}
+
+.lobby-text {
+    overflow-wrap: anywhere;
+    font-weight: 300;
+    margin: 1.0%;
+}
+
+.lobby-btn-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: 20%;
+}
+
+.lobby-btn {
+    align-self: flex-end;
+    margin: 7.5%;
+    height: unset;
+    color: white;
+    font-size: 1.17rem;
+    font-weight: 300;
+}
+
+.btn-start {
+    background-color: #4caf50;
+}
+
+.btn-start:hover {
+    background-color: #388e3c;
+}
+
+.btn-wait {
+    cursor: wait;
+}
+
+.btn-guess {
+    background-color: #2196f3;
+}
+
+.btn-guess:hover {
+    background-color: #1976d2;
+}
+
+
+.btn-next {
+    background-color: #4caf50;
+}

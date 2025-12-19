@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: #5b7171;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.background {
+    opacity: 1.0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    /* fallback, not used */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: -1;
+    pointer-events: none;
+    /* makes it unclickable/untouchable */
+    user-select: none;
+    /* makes it unselectable */
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  width: 100vw;
+  height: 100vh;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
